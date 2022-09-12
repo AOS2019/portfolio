@@ -1420,7 +1420,7 @@ blockquote:after {
   height: 123px;
   width: 123px;
   border-radius: 50%;
-  background: url("/img/photo.png?s=200&v=4");
+  background: url("/portfolio/img/photo.png?s=200&v=4");
   background-size: cover;
   margin: 0 auto;
 }
