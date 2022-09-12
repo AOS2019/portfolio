@@ -1,25 +1,25 @@
 [
     {
-        "name": "vedic",
-        "url": "https://github.com/vedic-lang/vedic",
-        "description": "Vedic is World first working Programming launguage in Sanskrit",
-        "banner": "https://opengraph.githubassets.com/7abe9abff3a621ee162a649f065d2848e5dba791da3d765e7bb63aba077ac086/vedic-lang/vedic",
+        "name": "FaviGen",
+        "url": "https://github.com/zuri-training/favicons_gen_proj_team_63",
+        "description": "Favicon Generator is a website that allows users to upload an image and generates Favicons of different sizes.",
+        "banner": "https://thumbs2.imgbox.com/c6/d8/Ty640Qx8_t.jpg",
         "color": "#f1e05a",
-        "lang": "JavaScript",
-        "date": "2022-04-11T12:06:09Z",
-        "stars": 49,
-        "forks": 4
+        "lang": "Python (Django  Framework)",
+        "date": "2022-08-12",
+        "stars": 2,
+        "forks": 31
     },
     {
-        "name": "bhagavad-gita-api",
-        "url": "https://github.com/vedicscriptures/bhagavad-gita-api",
-        "description": "An opensource rest API on Vedic Scripture Shrimad Bhagavad Gita",
-        "banner": "https://repository-images.githubusercontent.com/314205765/0bb18d80-2b22-11eb-8f6f-ccf20c0c2679",
+        "name": "Mobile Quiz App",
+        "url": "https://github.com/AOS2019/Mobile-Quiz-App",
+        "description": "A mobile Quiz Application that runs on Android operating system.",
+        "banner": "https://thumbs2.imgbox.com/d5/b4/YAHEZuml_t.jpg",
         "color": "#f1e05a",
-        "lang": "JavaScript",
+        "lang": "kvlang",
         "date": "2020-11-19T09:58:47Z",
-        "stars": 73,
-        "forks": 11
+        "stars": 0,
+        "forks": 0
     },
     {
         "name": "IPL-2020-Prediction",
@@ -53,49 +53,5 @@
         "date": "2020-10-06T10:02:13Z",
         "stars": 6,
         "forks": 2
-    },
-    {
-        "name": "shreeganesh",
-        "url": "https://github.com/PtPrashantTripathi/shreeganesh",
-        "description": "This Astrology Android app provide solution of your life problem, based upon Krishna Jyotish Padathi.",
-        "banner": "https://repository-images.githubusercontent.com/176751084/75dfc580-1238-11eb-9ff5-7c3da715308e",
-        "color": "#b07219",
-        "lang": "Java",
-        "date": "2019-03-20T14:24:46Z",
-        "stars": 13,
-        "forks": 2
-    },
-    {
-        "name": "cloud-storage-system",
-        "url": "https://github.com/PtPrashantTripathi/cloud-storage-system",
-        "description": "An Online Cloud Storage System, with functionality to add/upload/modify data on the real-time cloud.",
-        "banner": "https://opengraph.githubassets.com/41f8b5106bff99c871f9bc188e73c55690773d01909c4ae3462536e201ae1e39/PtPrashantTripathi/cloud-storage-system",
-        "color": "#b07219",
-        "lang": "Java",
-        "date": "2019-04-08T19:14:55Z",
-        "stars": 8,
-        "forks": 1
-    },
-    {
-        "name": "Adhyatma",
-        "url": "https://github.com/PtPrashantTripathi/Adhyatma",
-        "description": "An Emotional State vedic scripture Quotes Serach Engain",
-        "banner": "https://opengraph.githubassets.com/077996def3dc70a9666a95d98448bed4b4c0f61c07e56b6d9bc0cdb6e487e156/PtPrashantTripathi/Adhyatma",
-        "color": "#4F5D95",
-        "lang": "PHP",
-        "date": "2019-03-12T18:04:10Z",
-        "stars": 8,
-        "forks": 1
-    },
-    {
-        "name": "php-social-networking-site",
-        "url": "https://github.com/PtPrashantTripathi/php-social-networking-site",
-        "description": "A social Networking Site for student to show there project works and skills",
-        "banner": "https://opengraph.githubassets.com/b400a3e45b088510d2b2d6ae7899689882f12c8430468d636c936e2b4297966a/PtPrashantTripathi/php-social-networking-site",
-        "color": "#4F5D95",
-        "lang": "PHP",
-        "date": "2019-02-23T17:05:29Z",
-        "stars": 7,
-        "forks": 0
     }
 ]
